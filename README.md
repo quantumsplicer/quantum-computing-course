@@ -11,6 +11,7 @@ Recordings of the lectures are available [here](https://www.youtube.com/playlist
 ### Lecture slides
 1. [Day 1](lecture_slides/day1.pdf)
 2. [Day 2](lecture_slides/day2.pdf)
+3. [Day 3](lecture_slides/day3.pdf)
 
 [Example Problems](lecture_slides/example_problems.pdf)
 
