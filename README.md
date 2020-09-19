@@ -17,6 +17,7 @@ Recordings of the lectures are available [here](https://www.youtube.com/playlist
 ### Programming Notebooks
 1. [Brief Python 3 review](notebooks/intro_python.ipynb)
 2. [Single Qubit Operations and Circuits using Qiskit](notebooks/single_qubit.ipynb)
+3. [Multi-qubit Operations and Circuits using Qiskit](notebooks/multi_qubit.ipynb)
 
 ### Assignments
 
