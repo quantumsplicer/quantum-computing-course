@@ -20,4 +20,9 @@ Recordings of the lectures are available [here](https://www.youtube.com/playlist
 
 ### Assignments
 
-1. [Assignment 1](assignments/assignment1.ipynb)
+1. [Programming Assignment 1](assignments/assignment1.ipynb)
+
+### Quiz Solutions
+
+1. [Quiz 1 Solutions](assignments/quiz_solutions/quiz1_solutions.pdf)
+2. [Quiz 2 Solutions](assignments/quiz_solutions/quiz2_solutions.pdf)
