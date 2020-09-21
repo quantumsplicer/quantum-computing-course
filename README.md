@@ -29,5 +29,7 @@ Recordings of the lectures are available [here](https://www.youtube.com/playlist
 
 ### Quiz Solutions
 
-1. [Quiz 1 Solutions](assignments/quiz_solutions/quiz1_solutions.pdf)
-2. [Quiz 2 Solutions](assignments/quiz_solutions/quiz2_solutions.pdf)
+1. [Quiz 1 Solutions](assignments/quizzes/quiz1_solutions.pdf)
+2. [Quiz 2 Solutions](assignments/quizzes/quiz2_solutions.pdf)
+3. [Quiz 3](assignments/quizzes/quiz3.pdf)
+
